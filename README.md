@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at -> [MyProfile](https://github.com/arayush34)
 
-- 💬 Ask me about **Highly driven third-year undergraduate at Vellore Institute of Technology, majoring
+- 💬 About Me - **Highly driven third-year undergraduate at Vellore Institute of Technology, majoring
   in Computer Science Engineering. Proficient in Java, C++, and Python. Passionate about Data Science,
   Machine Learning, and Cyber Security. Self-motivated learner and collaboration enthusiast.
   Committed to excellence and eager to make a lasting impact in Computer Science.** 
