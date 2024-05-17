@@ -1,17 +1,17 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
-<h3 align="center">Data Science Enthusiast | Aspiring ML Developer | Prwatech (Summer Intern) | Ex-Dorklab | VIT Vellore</h3>
+<h3 align="center">Upcoming Associate Application Developer @ Oracle | Data Science Enthusiast | Aspiring ML Developer | Ex- Prwatech | VIT Vellore</h3>
 <img align="right" alt="coding" width="400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRiOTN4dG10dTF4NDJ6eDRvbDV3bWdnYWZ4YzZzdjhjYjV2c2t2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arayush34&label=Profile%20views&color=0e75b6&style=flat" alt="arayush34" /> </p>
 
-- 🔭 I’m currently working on [HealthPremiumPro](https://github.com/arayush34/HealthPremiumPro)
+- 🔭 I’m currently working on [HealthPremiumPro](https://github.com/raj2ayush/HealthPremiumPro)
 
 - 🌱 I’m currently learning **Deep Learning, Neural Networks, NLP, Reinforcement Learning, Transfer Learning, CNNs, RNNs and GNNs.**
 
 - 👯 I’m looking to collaborate on **Any AI/ML related Projects**
 
-- 👨‍💻 All of my projects are available at -> [MyProfile](https://github.com/arayush34)
+- 👨‍💻 All of my projects are available at -> [MyProfile](https://github.com/raj2ayush)
 
 - 💬 About Me - <br/>
   **Highly driven third-year undergraduate at Vellore Institute of Technology, majoring
