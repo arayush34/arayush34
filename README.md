@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)]
+![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">Upcoming Associate Application Developer @ Oracle | Data Science Enthusiast | Aspiring ML Developer | Ex- Prwatech | VIT Vellore</h3>
 <img align="right" alt="coding" width="400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRiOTN4dG10dTF4NDJ6eDRvbDV3bWdnYWZ4YzZzdjhjYjV2c2t2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
