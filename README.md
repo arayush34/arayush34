@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arayush34&label=Profile%20views&color=0e75b6&style=flat" alt="arayush34" /> </p>
 
-- 🔭 I’m currently working on [HealthPremiumPro](https://github.com/raj2ayush/HealthPremiumPro)
+- 🔭 I’m currently working on [SyncLab](https://github.com/raj2ayush/SyncLab-Intelligent-Image-Data-Generation/tree/main)
 
 - 🌱 I’m currently learning **Deep Learning, Neural Networks, NLP, Reinforcement Learning, Transfer Learning, CNNs, RNNs and GNNs.**
 
 - 👯 I’m looking to collaborate on **Any AI/ML related Projects**
 
-- 👨‍💻 All of my projects are available at -> [MyProfile](https://github.com/raj2ayush)
+- 👨‍💻 All of my projects are available at -> [MyProfile](https://raj2ayush.github.io/home/)
 
 - 💬 About Me - <br/>
   **Highly driven third-year undergraduate at Vellore Institute of Technology, majoring
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **arayush65@gmail.com**
 
-- 📄 Know about my experiences At -> [AyushRaj.io](https://drive.google.com/file/d/1LnCBjOAw0uPW9drATqeMcUhWfiOuS3Vw/view)
+- 📄 Know about my experiences At -> [AyushRaj.io](https://raj2ayush.github.io/home/)
 
 - ⚡ Fun fact **"Data is the fuel that drives innovation and powers the digital revolution."**
 
