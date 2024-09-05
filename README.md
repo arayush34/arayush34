@@ -1,23 +1,22 @@
 ![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
-<h3 align="center">Upcoming Associate Application Developer @ Oracle | Data Science Enthusiast | Aspiring ML Developer | Ex- Prwatech | VIT Vellore</h3>
+<h3 align="center">Associate Application Developer @ Oracle | Ex - SAMSUNG | Data Science Enthusias | Aspiring ML Developer | Ex- Prwatech | VIT Vellore</h3>
 <img align="right" alt="coding" width="400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRiOTN4dG10dTF4NDJ6eDRvbDV3bWdnYWZ4YzZzdjhjYjV2c2t2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arayush34&label=Profile%20views&color=0e75b6&style=flat" alt="arayush34" /> </p>
 
-- 🔭 I’m currently working on [SyncLab](https://github.com/raj2ayush/SyncLab-Intelligent-Image-Data-Generation/tree/main)
+- 🔭 I’m currently working at [ORACLE](https://www.oracle.com/in/)
 
-- 🌱 I’m currently learning **Deep Learning, Neural Networks, NLP, Reinforcement Learning, Transfer Learning, CNNs, RNNs and GNNs.**
+- 🌱 I’m currently learning **Postman API Testing, Springboot, JAVA, Weblogic, Ojet(for Web Development)**
 
-- 👯 I’m looking to collaborate on **Any AI/ML related Projects**
+- 👯 I’m looking to collaborate on **Any AI/ML or Springboot Related Projects**
+- ping me on -> [Linkdin](https://www.linkedin.com/in/ayush-gupta-raj/)
 
 - 👨‍💻 All of my projects are available at -> [MyProfile](https://raj2ayush.github.io/home/)
 
 - 💬 About Me - <br/>
-  **Highly driven third-year undergraduate at Vellore Institute of Technology, majoring
-  in Computer Science Engineering. Proficient in Java, C++, and Python. Passionate about Data Science,
-  Machine Learning, and Cyber Security. Self-motivated learner and collaboration enthusiast.
-  Committed to excellence and eager to make a lasting impact in Computer Science.** 
+  **Hi , 
+I am a Associate Application Developer at Oracle in the finance Domain. A seasoned expert in software development who has in-depth knowledge of prominent programming languages such as Java. Self-motivated learner and collaboration enthusiast with expertise in Data Science and Machine Learning. Data Analysis, Finance, and Testing are my primary interests as of late.** 
 
 - 📫 How to reach me **arayush65@gmail.com**
 
@@ -27,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-raj-20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-raj-20" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-gupta-raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-raj-20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arayush65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arayush65" height="30" width="40" /></a>
 </p>
 
